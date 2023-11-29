@@ -1,1 +1,0 @@
-# ptc3567-cloud_detector
